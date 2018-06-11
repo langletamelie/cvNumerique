@@ -23,3 +23,15 @@ h2{
   text-align:center;
   box-shadow: 6px 6px 6px;
 }
+p{
+  font-size: 20px;
+}
+#feather{
+  color:#4E0250;
+}
+#feather2{
+  color:#58BC82;
+}
+#feather3{
+  color:#645986;
+}
