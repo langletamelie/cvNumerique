@@ -1,0 +1,25 @@
+h1{
+  border:double 8px #4E0250;
+  text-align: center;
+  border-radius:20px;
+  font-size:60px;
+  box-shadow: 6px 6px 6px;
+}
+  body{
+    background-color:#F4E8E8;
+  }
+.contact{
+  border-radius:20px;
+  border:double 8px #4E0250;
+  text-align:center;
+  width:25%;
+  font-size: 30px;
+  box-shadow: 6px 6px 6px;
+}
+h2{
+  border:double 8px #8C1C13;
+  border-radius:20px;
+  width: 20%;
+  text-align:center;
+  box-shadow: 6px 6px 6px;
+}
