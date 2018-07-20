@@ -54,22 +54,32 @@ ul{
 }
 h3{
 font-size: 30px;
+padding-top: 10px;
 }
 .presentation, #presentation{
   background-color: #B51800;
+  box-shadow: 6px 6px 6px black;
 }
 .formation, #formation{
   background-color: #F07C00;
+  box-shadow: 6px 6px 6px black;
 }
 .loisirs, #loisirs{
   background-color: #DD60B2;
+  box-shadow: 6px 6px 6px black;
 }
 .competences, #competences{
   background-color: #43BC37;
+  box-shadow: 6px 6px 6px black;
 }
 .experiences, #experiences{
   background-color: #005DB3;
+  box-shadow: 6px 6px 6px black;
 }
 .contact, #contact{
   background-color: #9B36B3;
+  box-shadow: 6px 6px 6px black;
+}
+.thumbnail{
+  padding-top: 50px;
 }
